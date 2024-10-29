@@ -1,0 +1,50 @@
+.fieldWidth {
+	width:315px;
+}
+.form_table th,td
+{
+	padding:10px;
+}
+.Success
+{
+	padding: 12px;
+    color: green;
+    border-left: 5px solid green;
+    background-color: #DFF0D8;
+    margin: 15px 5px 5px 5px;
+}
+.Error
+{
+	padding: 12px;
+    color: red;
+    border-left: 5px solid red;
+    background-color: #ff9999;
+    margin: 15px 5px 5px 5px;
+}
+.colorRed
+{
+	color:red;
+}
+.apptoeBackground
+{
+	background: #ffffff;
+    padding-top:15px;
+	padding-left:30px;
+    border-radius: 17px;
+    text-shadow: 0 0 black;
+    margin-top: 12px;
+	width:96%;
+}
+.colorBlue
+{
+	color:#016BA5;
+}
+.submitBtn
+{
+	background-color:#016BA5;
+	border-color: #016BA5;
+    color: white;
+    width: 100px;
+    border-radius: 9px;
+    font-size: 15px;
+}
